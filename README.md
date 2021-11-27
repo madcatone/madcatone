@@ -1,5 +1,7 @@
 # [Repo name] made with :heart:,:coffee: and some :beer:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madcatone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [here we add the necesary badges, here are the ones I say we always need]
 
 ![License](https://img.shields.io/github/license/<User>/<Repo>.svg) ![Issues](https://img.shields.io/github/issues/<User>/<Repo>.svg) ![forks](https://img.shields.io/github/forks/<User>/<Repo>) ![stars](https://img.shields.io/github/stars/<User>/<Repo>) ![size](https://img.shields.io/github/repo-size/<User>/<Repo>)
