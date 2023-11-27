@@ -3,7 +3,6 @@
 ## Hi there 👋
 
 - 💡 I am a backend software engineer, rubyist and much more
-- 🔭 Currently working at [Faria](https://www.faria.org/)
 - ✍️  Elixir novice
 - 📫 Send me email at madcatone1+contact@gmail.com for any inquiries.
 
